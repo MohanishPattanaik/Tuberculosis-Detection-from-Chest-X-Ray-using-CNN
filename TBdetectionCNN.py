@@ -23,7 +23,7 @@ path = kagglehub.dataset_download("tawsifurrahman/tuberculosis-tb-chest-xray-dat
 
 print("Path to dataset files:", path)
 
-# Dataset path
+# Dataset path (from Kaggle)
 TBpath  = "/root/.cache/kagglehub/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset/versions/3/TB_Chest_Radiography_Database/Tuberculosis"
 Normalpath  = "/root/.cache/kagglehub/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset/versions/3/TB_Chest_Radiography_Database/Normal"
 base_path = "/root/.cache/kagglehub/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset/versions/3/TB_Chest_Radiography_Database"
