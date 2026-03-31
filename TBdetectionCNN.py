@@ -43,7 +43,7 @@ def show_examples(class_path, title, n=5):
 
 show_examples(Normalpath, "Normal")
 show_examples(TBpath, "Tuberculosis")
-
+# train snippet
 train_datagen = ImageDataGenerator(
     rescale=1./255,
     validation_split=0.15,
